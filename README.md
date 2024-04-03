@@ -1,3 +1,3 @@
 # Real-Estates
 #WebD
-This is an Real Estates "Magma" clone. Made with thw help of HTML,CSS,JS
+This is a Real Estate "Magma" clone. Made with the help of HTML, CSS, JS
